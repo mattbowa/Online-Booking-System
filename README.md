@@ -7,7 +7,7 @@ The system was implemented as a web-based app for managing oline appointments an
  
 
 ### Background
-The project was originally developed as a practical way for learning web development. This was also an opportunity to gain hands-on practical programming experience with PHP, JaVascript and MySQL.
+The project was originally developed as a practical way for learning web development. This was also an opportunity to gain hands-on practical programming experience with PHP, JavaScript and MySQL.
 
 The application was was designed from scratch without the dependence of a CMS or library modules.
 Through the project development stages, more features inclunding SMS functionlity and a user-freindly admin control panel, were progrssively added.
