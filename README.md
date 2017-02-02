@@ -11,7 +11,7 @@ The project was originally developed as a practical way for learning web develop
 
 The application was designed from scratch, with HTML5 and CSS, without the dependence of a CMS or library modules.
 
-Through the project development stages, more features inclunding frot & server side and database functionlities  were progrssively added.
+Through the project development stages, more features inclunding front & server side and database functionlities  were progrssively added.
 
                                            
  
