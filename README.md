@@ -1,9 +1,8 @@
 # Web Based Booking and Reservation System
 -----------------------------------------------------------------------------------------------------------------------------------                                           
                                            
-### Overview 
-The system was implemented as a web-based app for managing oline appointments and reservations, using a user friendly interface. 
-Please refer to the [demo website](http:\\mbbtech.com.au).
+### Introduction
+The system was implemented as a web-based app for managing oline appointments and reservations, please refer to the [demo website](http:\\mbbtech.com.au).
 
  
 
