@@ -2,7 +2,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------                                           
                                            
 ### Introduction
-The system was implemented as a web-based app for managing oline appointments and reservations. Please refer to the [demo website](http:\\mbbtech.com.au).
+The system was implemented as a web-based app for managing oline appointments and reservations. Please refer to the [demo website](http:\\booking.mbbtech.com.au).
 
  
 
