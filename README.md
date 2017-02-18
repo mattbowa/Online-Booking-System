@@ -16,11 +16,9 @@ Through the project development stages, more features inclunding front & server 
                                            
  
 ### System Features
-The system comes with a user-freindly admin control panel for customising the system feautures, please refer to the [CP demo](http://mbbtech.com.au/#system_configuration)
+The system comes with a user-freindly admin control panel for customising the system feautures, please refer to the [CP demo](http://booking.mbbtech.com.au/#system_configuration).
 
 The SMS component was developed as a seperate module in Java, which run as an Android app. The SMS componet was later re-developed as a native windows app in C using a GSM module.
-To get an idea on how to send SMS from a GSM module, please refer to the blog article [Remote Automation Using GSM](http://blog.mbbtech.com.au/#automation1).
-
 
                                           
 ### Improvements 
