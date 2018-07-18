@@ -2,7 +2,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------                                           
                                            
 ### Introduction
-The system was implemented as a web-based app for managing oline appointments and reservations. Please refer to the [demo website](http://booking.mbbtech.com.au).
+The system was implemented as a web-based app for managing oline appointments and reservations. Please refer to this [website](http://www.booking.mbowa.net/). 
 
  
 
@@ -16,7 +16,7 @@ Through the project development stages, more features inclunding front & server 
                                            
  
 ### System Features
-The system comes with a user-freindly admin control panel for customising the system feautures, please refer to the [Control Panel demo](http://booking.mbbtech.com.au/#system_configuration).
+The system comes with a user-freindly admin control panel for customising the system feautures, please refer to the [System Control Panel ](http://www.booking.mbowa.net/#system_configuration).
 
 The SMS component was developed as a seperate module in Java, which run as an Android app. The SMS componet was later re-developed as a native windows app in C using a GSM module.
 
@@ -24,6 +24,7 @@ The SMS component was developed as a seperate module in Java, which run as an An
 ### Improvements 
 The project was developed back in 2012 when I had just started learning  web programming. Through the experience, I gained confidence in my coding capabilities,  gianed practical experience with the principles of software development, and learned of the importance of using a version control system (the hard way!).
 
-If I was to do this project over again, I would  improve my code by taking take a more object oriented design approach (especially with PHP), and commenting the code.                                                 
+If I was to do this project over again, I would  improve my code by taking take a more object oriented design approach (especially with PHP), and commenting the code.     
+**Please note that support for this system has been discontinued**
                                                   
 -------------------------------------------------------------------------------------------------------------------------------
