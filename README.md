@@ -2,7 +2,10 @@
 -----------------------------------------------------------------------------------------------------------------------------------                                           
                                            
 ### Introduction
-The system was implemented as a web-based app for managing oline appointments and reservations. Please refer to this [website](http://www.booking.mbowa.net/). 
+ The project website can be found [here](http://www.booking.mbowa.net/). The system comes with a user-freindly admin control panel for customising the system feautures, please refer to the [System Control Panel ](http://www.booking.mbowa.net/#system_configuration).
+
+
+
 
  
 
@@ -13,12 +16,11 @@ The application was designed from scratch, with HTML5 and CSS, without the depen
 
 Through the project development stages, more features inclunding front & server side and database functionlities  were progrssively added.
 
+The SMS component was developed as a seperate module in Java, which run as an Android app. The SMS componet was later re-developed as a native windows app in C using a GSM module.
+
                                            
  
 ### System Features
-The system comes with a user-freindly admin control panel for customising the system feautures, please refer to the [System Control Panel ](http://www.booking.mbowa.net/#system_configuration).
-
-The SMS component was developed as a seperate module in Java, which run as an Android app. The SMS componet was later re-developed as a native windows app in C using a GSM module.
 
                                           
 ### Improvements 
