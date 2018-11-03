@@ -2,7 +2,8 @@
 -----------------------------------------------------------------------------------------------------------------------------------                                           
                                            
 ### Introduction
- The project website can be found [here](http://www.booking.mbowa.net/). The system comes with a user-freindly admin control panel for customising the system feautures, please refer to the [System Control Panel ](http://www.booking.mbowa.net/#system_configuration).
+A demo of the project website can be found [here](http://www.booking.mbowa.net/). The system comes with a user-freindly admin control panel for customising the system feautures, please refer to the [System Control Panel ](http://www.booking.mbowa.net/#system_configuration).
+ The projet full source code can be downloade on [github] (https://github.com/mattbowa/booking/tree/master/source%20code)
 
 
 
