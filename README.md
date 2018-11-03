@@ -1,4 +1,5 @@
-# Web Based Booking and Reservation System
+# Online Booking System
+
 -----------------------------------------------------------------------------------------------------------------------------------                                           
                                            
 ### Introduction
