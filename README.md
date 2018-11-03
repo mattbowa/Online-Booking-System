@@ -22,7 +22,7 @@ Through the project development stages more features, including front & server s
 The SMS component was developed as a seperate module in Java, which run as an Android app. The SMS componet was later re-developed in C as a native windows using a GSM module.
 
 ### Website
-A project website can be found [here](http://www.booking.mbowa.net/).  
+A project website has been moved [here](http://www.booking.mbowa.net/).  
 
                                                   
 -------------------------------------------------------------------------------------------------------------------------------
