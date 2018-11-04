@@ -4,11 +4,11 @@
                                            
 ### Introduction
 
-The system was implemented as a web-based app for managing oline appointments and reservations. 
-		 I designed the system with the idea of providing  a free service where clients can make appointments online.
-		 The system comes with a ton of useful cumstomisable features inclunding SMS remainders.<br />
-The system comes with a user-freindly admin control panel for customising the system feautures, please refer to the [System Control Panel ](http://www.booking.mbowa.net/#system_configuration).
- The projet full source code can be downloaded on [here](https://github.com/mattbowa/booking).
+The system was implemented as a web-based app for managing oline appointments and reservations.<br /> 
+		 The system was designed with the idea of providing  a free service where clients can make appointments online.
+		 The system comes with useful and cumstomisable features inclunding SMS remainders.<br />
+It also features a user-freindly admin control panel for customising the system feautures; please refer to the [System Control Panel ](http://www.booking.mbowa.net/#system_configuration).
+ The projet full source code can be downloaded [here](https://github.com/mattbowa/booking).
 
 
  
