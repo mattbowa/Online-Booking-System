@@ -16,7 +16,7 @@ The system comes with a user-freindly admin control panel for customising the sy
 ### Background
 The project was originally developed as a practical way for learning web development. This was also an opportunity to gain hands-on practical programming experience with PHP, JavaScript and MySQL.<br />
 
-The app was designed developed from scratch ( PHP, JavaScript & MySQL) without the dependence of a CMS, libraries or frameworks.
+<!--The app was designed developed from scratch ( PHP, JavaScript & MySQL) without the dependence of a CMS, libraries or frameworks.-->
 
 Through the project development stages more features, including front & server side functionalities,  were progressively added.<br />
 
